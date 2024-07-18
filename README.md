@@ -5,25 +5,27 @@ A fun and interactive card game where players compete against the PC. The game i
 <div align="center">
     <b>
         Location-Based Positioning:
+        <img width="400" alt="Screenshot 2024-07-18 at 21 13 01" src="https://github.com/user-attachments/assets/039ef93c-c7b6-41cf-a6b9-3e5d23f1ab76">
     </b>
     <br>
     Players appear on the right side of the screen if their location is east of the PC and on the left side if their location is west.
     <br>
-    <img width="600" alt="Location-Based Positioning" src="https://example.com/location-based-positioning.png">
+   <img width="400" alt="Screenshot 2024-07-18 at 21 16 37" src="https://github.com/user-attachments/assets/9c385581-7ea9-42f3-804e-afe855ca8d8c">
     <br>
     <b>
         Card Presentation and Scoring:</b>
     <br>
     Cards are presented from both the player and the PC every few minutes. The player with the stronger card wins a point. The player with the most points at the end of each round receives a star.
     <br>
-    <img width="600" alt="Card Presentation" src="https://example.com/card-presentation.png">
+    <img width="400" alt="Screenshot 2024-07-18 at 21 59 56" src="https://github.com/user-attachments/assets/871b3a50-1983-4c11-a6c5-779e3264c6f3">
+    <img width="400" alt="Screenshot 2024-07-18 at 21 59 50" src="https://github.com/user-attachments/assets/93721874-285d-4aae-95ac-f239862c1bdc">
     <br>
     <b>
         Round and Game Structure:</b>
     <br>
     The game consists of 3 rounds. The player who wins the most rounds is declared the overall winner of the game.
     <br>
-    <img width="600" alt="Round and Game Structure" src="https://example.com/round-game-structure.png">
+    <img width="400" alt="Screenshot 2024-07-18 at 22 04 55" src="https://github.com/user-attachments/assets/4ff77308-9820-4084-b729-19940a83ae08">
 
 ### How the Game Works
   ## Setup and Start
