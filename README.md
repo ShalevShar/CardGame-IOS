@@ -34,30 +34,36 @@ A fun and interactive card game where players compete against the PC. The game i
   Permissions: Players must grant location permissions to determine their position relative to the PC.
   Name Entry: Players enter their name to begin the game.
 
-   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d"> ### Gameplay
+   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d"> 
+   ### Gameplay
   Deck Shuffling: The deck of cards is shuffled equally at the start of each round.
   Card Presentation: Every few minutes, a card from the player's deck and a card from the PC’s deck are presented on screen.
   Scoring: The player with the stronger card wins a point for that round.
   Round End: At the end of each round, the player with the most points receives a star.
   Rounds: There are 3 rounds in total. The player who wins the most rounds is declared the winner of the game. Ties can occur in individual rounds.
-   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">### Setup
+   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">
+   ### Setup
   Add Location Permissions: Ensure the app has location permissions enabled.
   Add the Project to Xcode:
   Open the Xcode project.
   Configure the app with necessary permissions and settings for location access.
-   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">### Usage
+   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">
+   ### Usage
   ## Game Flow
   Start the Game: The game starts with the player entering their name and granting location permissions.
   Play Rounds: Cards are shuffled and presented every few minutes. Score and determine the winner of each round.
   End Game: After 3 rounds, the player with the most stars wins.
-   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">### Credits
+   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">
+   ### Credits
 Design and Developement
   [Shalev Sharabi]
-   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">### Open Source Libraries Used
+   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">
+   ### Open Source Libraries Used
   Swift - Language used for development.
   UIKit - Framework used for the user interface.
 
-   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">### License
+   <img width="40" alt="star" src="https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d">
+   ### License
   Enjoy playing free download and use of the CardGame!
   
 </div>
