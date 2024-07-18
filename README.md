@@ -27,7 +27,7 @@ A fun and interactive card game where players compete against the PC. The game i
     <br>
     <img width="400" alt="Screenshot 2024-07-18 at 22 04 55" src="https://github.com/user-attachments/assets/4ff77308-9820-4084-b729-19940a83ae08">
 
-### How the Game Works
+# How the Game Works
   ## Setup and Start
   Permissions: Players must grant location permissions to determine their position relative to the PC.
   Name Entry: Players enter their name to begin the game.
