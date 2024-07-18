@@ -33,6 +33,7 @@ A fun and interactive card game where players compete against the PC. The game i
   ## Setup and Start
   Permissions: Players must grant location permissions to determine their position relative to the PC.
   Name Entry: Players enter their name to begin the game.
+![star](https://github.com/user-attachments/assets/1af04b45-dbbd-4661-953c-4acba787bf8d)
 ### Gameplay
   Deck Shuffling: The deck of cards is shuffled equally at the start of each round.
   Card Presentation: Every few minutes, a card from the player's deck and a card from the PC’s deck are presented on screen.
