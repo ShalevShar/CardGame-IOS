@@ -5,7 +5,9 @@ A fun and interactive card game where players compete against the PC. The game i
 <div align="center">
     <b>
         Location-Based Positioning:
+        <br>
         <img width="400" alt="Screenshot 2024-07-18 at 21 13 01" src="https://github.com/user-attachments/assets/039ef93c-c7b6-41cf-a6b9-3e5d23f1ab76">
+        <br>
     </b>
     <br>
     Players appear on the right side of the screen if their location is east of the PC and on the left side if their location is west.
@@ -27,7 +29,7 @@ A fun and interactive card game where players compete against the PC. The game i
     <br>
     <img width="400" alt="Screenshot 2024-07-18 at 22 04 55" src="https://github.com/user-attachments/assets/4ff77308-9820-4084-b729-19940a83ae08">
 
-# How the Game Works
+# How the Game Works?
   ## Setup and Start
   Permissions: Players must grant location permissions to determine their position relative to the PC.
   Name Entry: Players enter their name to begin the game.
